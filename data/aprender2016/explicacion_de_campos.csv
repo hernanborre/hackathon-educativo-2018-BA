@@ -1,0 +1,10 @@
+nombre_campo,descripcion
+id_unidad_educativa,Es un identificador único por escuela que anonimiza la identidad de cada escuela. Es un código ficticio
+sexo,Es la respuesta a la pregunta  ¿Sos varón o mujer?  en el cuestionartio complementario de las pruebas Aprender que responden los estudiantes.
+indice_socioeconomico_alumno,"Es el índice socioeconómico del alumno, medido a través del cuestionario complementario de las pruebas Aprender."
+nivel_educativo_madre,Es la respuesta a la pregunta:  ¿Cuál es el nivel educativo de tu mamá?
+nivel_educativo_padre,Es la respuesta a la pregunta:  ¿Cuál es el nivel educativo de tu papá?
+desepeno_lengua,Es el nivel de desempeño en la prueba de Lengua.
+desepeno_matematica,Es el nivel de desempeño en la prueba de Matemática
+ponderador_lengua,Es el factor de expansión para ponderar los resultados en Lengua. Ver documento Ponderación.pdf para más detalle
+ponderador_matematica,Es el factor de expansión para ponderar los resultados en Matemática

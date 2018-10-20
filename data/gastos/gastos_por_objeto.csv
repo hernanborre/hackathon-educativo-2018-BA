@@ -1,0 +1,691 @@
+nombre,provincia,valor,year
+bienes_y_servicios_no_personales,Chaco,176756463.0,2011
+erogacion_de_capital,Chaco,258770928.003827,2011
+personal,Chaco,2650767518.26,2011
+transferencias_educacion_privada,Chaco,161346967.1,2011
+transferencias_otras,Chaco,97229597.67,2011
+bienes_y_servicios_no_personales,Chaco,224371697.76,2012
+erogacion_de_capital,Chaco,152866784.328148,2012
+personal,Chaco,3427512946.3,2012
+transferencias_educacion_privada,Chaco,247709657.06,2012
+transferencias_otras,Chaco,101111696.37,2012
+bienes_y_servicios_no_personales,Chaco,257379367.03,2013
+erogacion_de_capital,Chaco,321089399.76,2013
+personal,Chaco,4182888088.56,2013
+transferencias_educacion_privada,Chaco,332647161.11,2013
+transferencias_otras,Chaco,143160315.94,2013
+bienes_y_servicios_no_personales,Chaco,310400304.26,2014
+erogacion_de_capital,Chaco,412283823.102,2014
+personal,Chaco,5603791668.0292,2014
+transferencias_educacion_privada,Chaco,461775156.6608,2014
+transferencias_otras,Chaco,183876863.18,2014
+bienes_y_servicios_no_personales,Chaco,402731132.97,2015
+erogacion_de_capital,Chaco,563445976.132698,2015
+personal,Chaco,7561273680.75,2015
+transferencias_educacion_privada,Chaco,637471266.79,2015
+transferencias_otras,Chaco,219745112.66,2015
+bienes_y_servicios_no_personales,Chaco,307519219.97,2016
+erogacion_de_capital,Chaco,359239304.00873,2016
+personal,Chaco,11506182065.11,2016
+transferencias_educacion_privada,Chaco,1029350251.21,2016
+transferencias_otras,Chaco,288632143.34,2016
+bienes_y_servicios_no_personales,Misiones,47188538.2,2011
+erogacion_de_capital,Misiones,289419899.72898,2011
+personal,Misiones,1755570062.26,2011
+transferencias_educacion_privada,Misiones,343600943.8,2011
+transferencias_otras,Misiones,66821319.73,2011
+bienes_y_servicios_no_personales,Misiones,71864432.84,2012
+erogacion_de_capital,Misiones,175720893.306667,2012
+personal,Misiones,2336323130.13,2012
+transferencias_educacion_privada,Misiones,490567481.95,2012
+transferencias_otras,Misiones,83207297.85,2012
+bienes_y_servicios_no_personales,Misiones,123971735.06,2013
+erogacion_de_capital,Misiones,342117351.11,2013
+personal,Misiones,3053943226.6,2013
+transferencias_educacion_privada,Misiones,637428279.99,2013
+transferencias_otras,Misiones,96120585.62,2013
+bienes_y_servicios_no_personales,Misiones,122463440.939,2014
+erogacion_de_capital,Misiones,377555338.93,2014
+personal,Misiones,4249579340.99,2014
+transferencias_educacion_privada,Misiones,914819922.06,2014
+transferencias_otras,Misiones,119956909.53,2014
+bienes_y_servicios_no_personales,Misiones,167430217.25,2015
+erogacion_de_capital,Misiones,428396576.464921,2015
+personal,Misiones,6126981338.59,2015
+transferencias_educacion_privada,Misiones,1364915786.79,2015
+transferencias_otras,Misiones,186799293.24,2015
+bienes_y_servicios_no_personales,Misiones,101072314.17,2016
+erogacion_de_capital,Misiones,358597996.440476,2016
+personal,Misiones,8698970625.49,2016
+transferencias_educacion_privada,Misiones,1926410008.44,2016
+transferencias_otras,Misiones,240869651.24,2016
+bienes_y_servicios_no_personales,Santa Cruz,142719678.06,2011
+erogacion_de_capital,Santa Cruz,77893427.9946225,2011
+personal,Santa Cruz,1304236563.65,2011
+transferencias_educacion_privada,Santa Cruz,177295421.65,2011
+transferencias_otras,Santa Cruz,19005545.77,2011
+bienes_y_servicios_no_personales,Santa Cruz,123967702.42,2012
+erogacion_de_capital,Santa Cruz,67687871.3088889,2012
+personal,Santa Cruz,1551756180.44,2012
+transferencias_educacion_privada,Santa Cruz,209511033.29,2012
+transferencias_otras,Santa Cruz,21958321.89,2012
+bienes_y_servicios_no_personales,Santa Cruz,149161437.64,2013
+erogacion_de_capital,Santa Cruz,98276464.095,2013
+personal,Santa Cruz,2052824693.56,2013
+transferencias_educacion_privada,Santa Cruz,253317369.53,2013
+transferencias_otras,Santa Cruz,27445830.45,2013
+bienes_y_servicios_no_personales,Santa Cruz,185878693.64,2014
+erogacion_de_capital,Santa Cruz,187389815.305,2014
+personal,Santa Cruz,3677451712.66,2014
+transferencias_educacion_privada,Santa Cruz,421610234.92,2014
+transferencias_otras,Santa Cruz,53400474.68,2014
+bienes_y_servicios_no_personales,Santa Cruz,248727229.24,2015
+erogacion_de_capital,Santa Cruz,172427890.983492,2015
+personal,Santa Cruz,4951342052.13,2015
+transferencias_educacion_privada,Santa Cruz,571197984.23,2015
+transferencias_otras,Santa Cruz,70162252.52,2015
+bienes_y_servicios_no_personales,Santa Cruz,226416792.07,2016
+erogacion_de_capital,Santa Cruz,92364398.751746,2016
+personal,Santa Cruz,6420022459.63,2016
+transferencias_educacion_privada,Santa Cruz,742469549.4,2016
+transferencias_otras,Santa Cruz,105978631.31,2016
+bienes_y_servicios_no_personales,Mendoza,147072079.4,2011
+erogacion_de_capital,Mendoza,334649618.066684,2011
+personal,Mendoza,3147525950.43,2011
+transferencias_educacion_privada,Mendoza,374071456.17,2011
+transferencias_otras,Mendoza,72310070.05,2011
+bienes_y_servicios_no_personales,Mendoza,165399787.91,2012
+erogacion_de_capital,Mendoza,249933479.97963,2012
+personal,Mendoza,4106696419.2,2012
+transferencias_educacion_privada,Mendoza,486289174.09,2012
+transferencias_otras,Mendoza,70117981.69,2012
+bienes_y_servicios_no_personales,Mendoza,209892942.38,2013
+erogacion_de_capital,Mendoza,286047907.315,2013
+personal,Mendoza,5448983975.13,2013
+transferencias_educacion_privada,Mendoza,641532448.0,2013
+transferencias_otras,Mendoza,88723000.12,2013
+bienes_y_servicios_no_personales,Mendoza,320669380.32,2014
+erogacion_de_capital,Mendoza,259019601.235,2014
+personal,Mendoza,7065791167.73,2014
+transferencias_educacion_privada,Mendoza,864994698.9,2014
+transferencias_otras,Mendoza,117239143.22,2014
+bienes_y_servicios_no_personales,Mendoza,393806504.77,2015
+erogacion_de_capital,Mendoza,414100738.540952,2015
+personal,Mendoza,10348911410.33,2015
+transferencias_educacion_privada,Mendoza,1186080499.59,2015
+transferencias_otras,Mendoza,131137332.5,2015
+bienes_y_servicios_no_personales,Mendoza,346608983.12,2016
+erogacion_de_capital,Mendoza,315843274.726984,2016
+personal,Mendoza,12501077125.33,2016
+transferencias_educacion_privada,Mendoza,1533309489.82,2016
+transferencias_otras,Mendoza,215036239.67,2016
+bienes_y_servicios_no_personales,San Juan,111869439.83,2011
+erogacion_de_capital,San Juan,210638317.835357,2011
+personal,San Juan,1063004944.7,2011
+transferencias_educacion_privada,San Juan,206389608.67,2011
+transferencias_otras,San Juan,12724428.52,2011
+bienes_y_servicios_no_personales,San Juan,141408855.42,2012
+erogacion_de_capital,San Juan,199184015.977778,2012
+personal,San Juan,1350840776.07,2012
+transferencias_educacion_privada,San Juan,275142257.65,2012
+transferencias_otras,San Juan,16675424.73,2012
+bienes_y_servicios_no_personales,San Juan,184325359.05,2013
+erogacion_de_capital,San Juan,192658739.57,2013
+personal,San Juan,1779114416.07,2013
+transferencias_educacion_privada,San Juan,353647430.28,2013
+transferencias_otras,San Juan,28904978.48,2013
+bienes_y_servicios_no_personales,San Juan,314033964.17,2014
+erogacion_de_capital,San Juan,307563624.38,2014
+personal,San Juan,2423317682.11,2014
+transferencias_educacion_privada,San Juan,486875234.76,2014
+transferencias_otras,San Juan,38530020.08,2014
+bienes_y_servicios_no_personales,San Juan,428798829.81,2015
+erogacion_de_capital,San Juan,691871192.001746,2015
+personal,San Juan,3189465748.33,2015
+transferencias_educacion_privada,San Juan,662101689.5,2015
+transferencias_otras,San Juan,44572264.61,2015
+bienes_y_servicios_no_personales,San Juan,404883462.33,2016
+erogacion_de_capital,San Juan,802458444.001746,2016
+personal,San Juan,4508400599.71,2016
+transferencias_educacion_privada,San Juan,922026384.32,2016
+transferencias_otras,San Juan,20400524.07,2016
+bienes_y_servicios_no_personales,Formosa,28015752.42,2011
+erogacion_de_capital,Formosa,310827299.288878,2011
+personal,Formosa,1311850523.9218,2011
+transferencias_educacion_privada,Formosa,47370985.5682,2011
+transferencias_otras,Formosa,3774176.46,2011
+bienes_y_servicios_no_personales,Formosa,34074466.32,2012
+erogacion_de_capital,Formosa,339180084.667407,2012
+personal,Formosa,1621391149.58,2012
+transferencias_educacion_privada,Formosa,49868979.13,2012
+transferencias_otras,Formosa,8538250.49,2012
+bienes_y_servicios_no_personales,Formosa,54185153.12,2013
+erogacion_de_capital,Formosa,394744195.51,2013
+personal,Formosa,2054905194.8996,2013
+transferencias_educacion_privada,Formosa,67094104.3104,2013
+transferencias_otras,Formosa,6077935.38,2013
+bienes_y_servicios_no_personales,Formosa,89567677.26,2014
+erogacion_de_capital,Formosa,522143625.915,2014
+personal,Formosa,2719677637.3296,2014
+transferencias_educacion_privada,Formosa,89851783.294575,2014
+transferencias_otras,Formosa,5356579.915825,2014
+bienes_y_servicios_no_personales,Formosa,149280576.54,2015
+erogacion_de_capital,Formosa,798248800.49,2015
+personal,Formosa,3757887491.122,2015
+transferencias_educacion_privada,Formosa,123797497.25415,2015
+transferencias_otras,Formosa,13231515.0,2015
+bienes_y_servicios_no_personales,Formosa,118589936.33,2016
+erogacion_de_capital,Formosa,858701241.511746,2016
+personal,Formosa,5095107430.89,2016
+transferencias_educacion_privada,Formosa,185717715.54,2016
+transferencias_otras,Formosa,4368309.5,2016
+bienes_y_servicios_no_personales,Corrientes,67529767.55,2011
+erogacion_de_capital,Corrientes,260535305.507347,2011
+personal,Corrientes,1888040853.22,2011
+transferencias_educacion_privada,Corrientes,224272255.31,2011
+transferencias_otras,Corrientes,3505880.82,2011
+bienes_y_servicios_no_personales,Corrientes,85534405.8,2012
+erogacion_de_capital,Corrientes,167538960.718148,2012
+personal,Corrientes,2414259655.51,2012
+transferencias_educacion_privada,Corrientes,291973777.94,2012
+transferencias_otras,Corrientes,2481041.47,2012
+bienes_y_servicios_no_personales,Corrientes,147769798.51,2013
+erogacion_de_capital,Corrientes,257034381.94,2013
+personal,Corrientes,3057566407.865,2013
+transferencias_educacion_privada,Corrientes,365304899.163,2013
+transferencias_otras,Corrientes,3759297.46,2013
+bienes_y_servicios_no_personales,Corrientes,185000299.29,2014
+erogacion_de_capital,Corrientes,205337285.85,2014
+personal,Corrientes,4081349241.81,2014
+transferencias_educacion_privada,Corrientes,492869789.9,2014
+transferencias_otras,Corrientes,6461481.0,2014
+bienes_y_servicios_no_personales,Corrientes,274062930.11,2015
+erogacion_de_capital,Corrientes,341494879.746984,2015
+personal,Corrientes,5325797913.2,2015
+transferencias_educacion_privada,Corrientes,639829604.95,2015
+transferencias_otras,Corrientes,11183758.5,2015
+bienes_y_servicios_no_personales,Corrientes,333150573.29,2016
+erogacion_de_capital,Corrientes,372623263.54,2016
+personal,Corrientes,7804114510.7,2016
+transferencias_educacion_privada,Corrientes,880704857.03,2016
+transferencias_otras,Corrientes,2715957.75,2016
+bienes_y_servicios_no_personales,Buenos Aires,609848957.02,2011
+erogacion_de_capital,Buenos Aires,1642743244.88388,2011
+personal,Buenos Aires,25422474688.98,2011
+transferencias_educacion_privada,Buenos Aires,4088816402.39,2011
+transferencias_otras,Buenos Aires,83682435.26,2011
+bienes_y_servicios_no_personales,Buenos Aires,697950810.9,2012
+erogacion_de_capital,Buenos Aires,822743462.303185,2012
+personal,Buenos Aires,31677063621.76,2012
+transferencias_educacion_privada,Buenos Aires,4925455963.13,2012
+transferencias_otras,Buenos Aires,20969061.39,2012
+bienes_y_servicios_no_personales,Buenos Aires,908123415.78,2013
+erogacion_de_capital,Buenos Aires,2187057164.215,2013
+personal,Buenos Aires,39332362699.68,2013
+transferencias_educacion_privada,Buenos Aires,5695902123.23,2013
+transferencias_otras,Buenos Aires,39064360.35,2013
+bienes_y_servicios_no_personales,Buenos Aires,1350430466.07,2014
+erogacion_de_capital,Buenos Aires,2315400250.87,2014
+personal,Buenos Aires,50125412850.29,2014
+transferencias_educacion_privada,Buenos Aires,7542022525.46,2014
+transferencias_otras,Buenos Aires,53033722.9,2014
+bienes_y_servicios_no_personales,Buenos Aires,2312589788.27,2015
+erogacion_de_capital,Buenos Aires,2255390215.8519,2015
+personal,Buenos Aires,75475100575.12,2015
+transferencias_educacion_privada,Buenos Aires,10775413375.62,2015
+transferencias_otras,Buenos Aires,67861365.76,2015
+bienes_y_servicios_no_personales,Buenos Aires,1779867662.04,2016
+erogacion_de_capital,Buenos Aires,1425671258.23397,2016
+personal,Buenos Aires,98109525755.11,2016
+transferencias_educacion_privada,Buenos Aires,14423944392.2,2016
+transferencias_otras,Buenos Aires,68366878.78,2016
+bienes_y_servicios_no_personales,San Luis,18576874.16,2011
+erogacion_de_capital,San Luis,73372324.702449,2011
+personal,San Luis,600357738.6,2011
+transferencias_educacion_privada,San Luis,107766934.6,2011
+transferencias_otras,San Luis,14346010.66,2011
+bienes_y_servicios_no_personales,San Luis,25028437.41,2012
+erogacion_de_capital,San Luis,245969969.555556,2012
+personal,San Luis,739324579.26,2012
+transferencias_educacion_privada,San Luis,137764250.49,2012
+transferencias_otras,San Luis,16035001.57,2012
+bienes_y_servicios_no_personales,San Luis,58302417.77,2013
+erogacion_de_capital,San Luis,421017322.37,2013
+personal,San Luis,924548549.12,2013
+transferencias_educacion_privada,San Luis,180847121.45,2013
+transferencias_otras,San Luis,129783198.95,2013
+bienes_y_servicios_no_personales,San Luis,96482013.4,2014
+erogacion_de_capital,San Luis,627718887.581,2014
+personal,San Luis,1451475466.37,2014
+transferencias_educacion_privada,San Luis,273826740.18,2014
+transferencias_otras,San Luis,205070583.37,2014
+bienes_y_servicios_no_personales,San Luis,140204524.8,2015
+erogacion_de_capital,San Luis,571675786.351746,2015
+personal,San Luis,1719702334.73,2015
+transferencias_educacion_privada,San Luis,379193064.73,2015
+transferencias_otras,San Luis,1100245168.48,2015
+bienes_y_servicios_no_personales,San Luis,154520644.3,2016
+erogacion_de_capital,San Luis,945378875.941746,2016
+personal,San Luis,2573549238.96,2016
+transferencias_educacion_privada,San Luis,605514901.53,2016
+transferencias_otras,San Luis,957706154.52,2016
+bienes_y_servicios_no_personales,Tucumán,53892831.94,2011
+erogacion_de_capital,Tucumán,188217442.560357,2011
+personal,Tucumán,2447395862.29,2011
+transferencias_educacion_privada,Tucumán,292805924.35,2011
+transferencias_otras,Tucumán,79026425.8,2011
+bienes_y_servicios_no_personales,Tucumán,67411188.88,2012
+erogacion_de_capital,Tucumán,221263691.603333,2012
+personal,Tucumán,3117664442.991,2012
+transferencias_educacion_privada,Tucumán,386614208.929,2012
+transferencias_otras,Tucumán,61009151.11,2012
+bienes_y_servicios_no_personales,Tucumán,67424407.81,2013
+erogacion_de_capital,Tucumán,418998526.835,2013
+personal,Tucumán,4165895631.19,2013
+transferencias_educacion_privada,Tucumán,448040238.13,2013
+transferencias_otras,Tucumán,188351674.13,2013
+bienes_y_servicios_no_personales,Tucumán,86675273.44,2014
+erogacion_de_capital,Tucumán,348193925.075,2014
+personal,Tucumán,5394887952.89,2014
+transferencias_educacion_privada,Tucumán,597862798.93,2014
+transferencias_otras,Tucumán,7305514.5,2014
+bienes_y_servicios_no_personales,Tucumán,158891388.02,2015
+erogacion_de_capital,Tucumán,429805351.72,2015
+personal,Tucumán,7036032139.48,2015
+transferencias_educacion_privada,Tucumán,761934532.05,2015
+transferencias_otras,Tucumán,228049740.82,2015
+bienes_y_servicios_no_personales,Tucumán,111597377.38,2016
+erogacion_de_capital,Tucumán,431024287.36,2016
+personal,Tucumán,9555659366.58,2016
+transferencias_educacion_privada,Tucumán,1051854501.74,2016
+transferencias_otras,Tucumán,222331409.06,2016
+bienes_y_servicios_no_personales,La Pampa,75262166.79,2011
+erogacion_de_capital,La Pampa,68912771.7108673,2011
+personal,La Pampa,1019025614.54,2011
+transferencias_educacion_privada,La Pampa,121056620.66,2011
+transferencias_otras,La Pampa,10933982.92,2011
+bienes_y_servicios_no_personales,La Pampa,93990031.52,2012
+erogacion_de_capital,La Pampa,132607121.52963,2012
+personal,La Pampa,1334581706.01,2012
+transferencias_educacion_privada,La Pampa,159611208.99,2012
+transferencias_otras,La Pampa,10812685.68,2012
+bienes_y_servicios_no_personales,La Pampa,152157856.37,2013
+erogacion_de_capital,La Pampa,141976291.21,2013
+personal,La Pampa,1764220334.03,2013
+transferencias_educacion_privada,La Pampa,205550516.13,2013
+transferencias_otras,La Pampa,12444868.53,2013
+bienes_y_servicios_no_personales,La Pampa,223186502.11,2014
+erogacion_de_capital,La Pampa,136181642.085,2014
+personal,La Pampa,2371357216.37,2014
+transferencias_educacion_privada,La Pampa,274239750.78,2014
+transferencias_otras,La Pampa,16160247.59,2014
+bienes_y_servicios_no_personales,La Pampa,284202189.93,2015
+erogacion_de_capital,La Pampa,166048074.903492,2015
+personal,La Pampa,3191299478.14,2015
+transferencias_educacion_privada,La Pampa,368109836.92,2015
+transferencias_otras,La Pampa,21338692.96,2015
+bienes_y_servicios_no_personales,La Pampa,397964737.61,2016
+erogacion_de_capital,La Pampa,153950458.28,2016
+personal,La Pampa,4318283816.42,2016
+transferencias_educacion_privada,La Pampa,488981390.54,2016
+transferencias_otras,La Pampa,16497451.81,2016
+bienes_y_servicios_no_personales,Río Negro,127901697.34,2011
+erogacion_de_capital,Río Negro,120037301.41,2011
+personal,Río Negro,1592229536.22,2011
+transferencias_educacion_privada,Río Negro,113984754.28,2011
+transferencias_otras,Río Negro,68011227.14,2011
+bienes_y_servicios_no_personales,Río Negro,98986092.89,2012
+erogacion_de_capital,Río Negro,147297946.726296,2012
+personal,Río Negro,2140743321.02,2012
+transferencias_educacion_privada,Río Negro,176607271.86,2012
+transferencias_otras,Río Negro,26427788.63,2012
+bienes_y_servicios_no_personales,Río Negro,131504901.0,2013
+erogacion_de_capital,Río Negro,99524013.885,2013
+personal,Río Negro,2992818834.94,2013
+transferencias_educacion_privada,Río Negro,233777963.33,2013
+transferencias_otras,Río Negro,91453628.34,2013
+bienes_y_servicios_no_personales,Río Negro,165850667.39,2014
+erogacion_de_capital,Río Negro,153861440.36,2014
+personal,Río Negro,3834992508.63,2014
+transferencias_educacion_privada,Río Negro,266178675.66,2014
+transferencias_otras,Río Negro,122516333.03,2014
+bienes_y_servicios_no_personales,Río Negro,407566780.37,2015
+erogacion_de_capital,Río Negro,334871842.01873,2015
+personal,Río Negro,5536887620.28,2015
+transferencias_educacion_privada,Río Negro,448215799.56,2015
+transferencias_otras,Río Negro,271976730.68,2015
+bienes_y_servicios_no_personales,Río Negro,321531128.38,2016
+erogacion_de_capital,Río Negro,298205936.011746,2016
+personal,Río Negro,7427777734.16,2016
+transferencias_educacion_privada,Río Negro,549975647.96,2016
+transferencias_otras,Río Negro,157993081.94,2016
+bienes_y_servicios_no_personales,Jujuy,17010128.0,2011
+erogacion_de_capital,Jujuy,154843620.690153,2011
+personal,Jujuy,1681636510.0,2011
+transferencias_educacion_privada,Jujuy,153891970.0,2011
+transferencias_otras,Jujuy,2481300.0,2011
+bienes_y_servicios_no_personales,Jujuy,19873187.93,2012
+erogacion_de_capital,Jujuy,119797621.034444,2012
+personal,Jujuy,2119770190.0,2012
+transferencias_educacion_privada,Jujuy,198080410.0,2012
+transferencias_otras,Jujuy,8360937.5,2012
+bienes_y_servicios_no_personales,Jujuy,32270345.36,2013
+erogacion_de_capital,Jujuy,188831071.42,2013
+personal,Jujuy,2753943000.0,2013
+transferencias_educacion_privada,Jujuy,268560000.0,2013
+transferencias_otras,Jujuy,10644190.0,2013
+bienes_y_servicios_no_personales,Jujuy,33616564.15,2014
+erogacion_de_capital,Jujuy,189291737.63,2014
+personal,Jujuy,3631190000.0,2014
+transferencias_educacion_privada,Jujuy,254333000.0,2014
+transferencias_otras,Jujuy,10864540.0,2014
+bienes_y_servicios_no_personales,Jujuy,51603222.53,2015
+erogacion_de_capital,Jujuy,246195951.194444,2015
+personal,Jujuy,5338434134.54,2015
+transferencias_educacion_privada,Jujuy,361549990.73,2015
+transferencias_otras,Jujuy,21014920.0,2015
+bienes_y_servicios_no_personales,Jujuy,13197540.24,2016
+erogacion_de_capital,Jujuy,177703748.941746,2016
+personal,Jujuy,6843710000.0,2016
+transferencias_educacion_privada,Jujuy,408980000.0,2016
+transferencias_otras,Jujuy,14216760.0,2016
+bienes_y_servicios_no_personales,Tierra del Fuego,20281804.85,2011
+erogacion_de_capital,Tierra del Fuego,46884337.7920408,2011
+personal,Tierra del Fuego,860770920.770001,2011
+transferencias_educacion_privada,Tierra del Fuego,65288649.99,2011
+transferencias_otras,Tierra del Fuego,176300.0,2011
+bienes_y_servicios_no_personales,Tierra del Fuego,31483968.9151,2012
+erogacion_de_capital,Tierra del Fuego,47114990.144074,2012
+personal,Tierra del Fuego,1076853356.78,2012
+transferencias_educacion_privada,Tierra del Fuego,81378782.34,2012
+transferencias_otras,Tierra del Fuego,5919972.1,2012
+bienes_y_servicios_no_personales,Tierra del Fuego,49045074.4,2013
+erogacion_de_capital,Tierra del Fuego,66044489.925,2013
+personal,Tierra del Fuego,1459915447.0,2013
+transferencias_educacion_privada,Tierra del Fuego,107150982.0,2013
+transferencias_otras,Tierra del Fuego,5540928.0,2013
+bienes_y_servicios_no_personales,Tierra del Fuego,66418734.8859,2014
+erogacion_de_capital,Tierra del Fuego,112756821.1804,2014
+personal,Tierra del Fuego,2146746764.71999,2014
+transferencias_educacion_privada,Tierra del Fuego,163223091.05,2014
+transferencias_otras,Tierra del Fuego,5379070.66,2014
+bienes_y_servicios_no_personales,Tierra del Fuego,73105217.9963997,2015
+erogacion_de_capital,Tierra del Fuego,145806080.58623,2015
+personal,Tierra del Fuego,2876119733.56,2015
+transferencias_educacion_privada,Tierra del Fuego,208396476.69,2015
+transferencias_otras,Tierra del Fuego,8169009.84,2015
+bienes_y_servicios_no_personales,Tierra del Fuego,83557753.1581,2016
+erogacion_de_capital,Tierra del Fuego,136789569.877692,2016
+personal,Tierra del Fuego,3763605370.03,2016
+transferencias_educacion_privada,Tierra del Fuego,300550356.29,2016
+transferencias_otras,Tierra del Fuego,1229512.83,2016
+bienes_y_servicios_no_personales,Neuquén,167861930.08,2011
+erogacion_de_capital,Neuquén,78090686.4040817,2011
+personal,Neuquén,2143198713.6824,2011
+transferencias_educacion_privada,Neuquén,122737471.9376,2011
+transferencias_otras,Neuquén,8055319.92,2011
+bienes_y_servicios_no_personales,Neuquén,220890138.63,2012
+erogacion_de_capital,Neuquén,107508054.944074,2012
+personal,Neuquén,2750382202.6755,2012
+transferencias_educacion_privada,Neuquén,157499072.5645,2012
+transferencias_otras,Neuquén,15565839.24,2012
+bienes_y_servicios_no_personales,Neuquén,261124979.7,2013
+erogacion_de_capital,Neuquén,150133470.98,2013
+personal,Neuquén,3366351369.1914,2013
+transferencias_educacion_privada,Neuquén,191450654.3786,2013
+transferencias_otras,Neuquén,2750386.9,2013
+bienes_y_servicios_no_personales,Neuquén,425244807.2,2014
+erogacion_de_capital,Neuquén,201309790.895,2014
+personal,Neuquén,4964198051.5777,2014
+transferencias_educacion_privada,Neuquén,277823265.8223,2014
+transferencias_otras,Neuquén,27007965.02,2014
+bienes_y_servicios_no_personales,Neuquén,573408563.76,2015
+erogacion_de_capital,Neuquén,350633363.231746,2015
+personal,Neuquén,7730175462.5492,2015
+transferencias_educacion_privada,Neuquén,410063654.3608,2015
+transferencias_otras,Neuquén,39260268.76,2015
+bienes_y_servicios_no_personales,Neuquén,681608839.66,2016
+erogacion_de_capital,Neuquén,296869991.271746,2016
+personal,Neuquén,10443305452.9812,2016
+transferencias_educacion_privada,Neuquén,539804981.9488,2016
+transferencias_otras,Neuquén,40233556.16,2016
+bienes_y_servicios_no_personales,Entre Ríos,72850622.85,2011
+erogacion_de_capital,Entre Ríos,357412163.857806,2011
+personal,Entre Ríos,2378340480.75,2011
+transferencias_educacion_privada,Entre Ríos,478898565.596619,2011
+transferencias_otras,Entre Ríos,7820978.41,2011
+bienes_y_servicios_no_personales,Entre Ríos,91006741.52,2012
+erogacion_de_capital,Entre Ríos,223368375.945556,2012
+personal,Entre Ríos,3001885170.51,2012
+transferencias_educacion_privada,Entre Ríos,574221205.88,2012
+transferencias_otras,Entre Ríos,1229545.4,2012
+bienes_y_servicios_no_personales,Entre Ríos,157691206.66,2013
+erogacion_de_capital,Entre Ríos,449989158.3,2013
+personal,Entre Ríos,3781671264.65,2013
+transferencias_educacion_privada,Entre Ríos,866943208.48,2013
+transferencias_otras,Entre Ríos,2013510.0,2013
+bienes_y_servicios_no_personales,Entre Ríos,148920357.25,2014
+erogacion_de_capital,Entre Ríos,560324539.58,2014
+personal,Entre Ríos,5274585475.8,2014
+transferencias_educacion_privada,Entre Ríos,1131279836.12,2014
+transferencias_otras,Entre Ríos,2187760.0,2014
+bienes_y_servicios_no_personales,Entre Ríos,287487772.5,2015
+erogacion_de_capital,Entre Ríos,595025848.999206,2015
+personal,Entre Ríos,7519760164.27,2015
+transferencias_educacion_privada,Entre Ríos,1425894192.93904,2015
+transferencias_otras,Entre Ríos,17904200.3709597,2015
+bienes_y_servicios_no_personales,Entre Ríos,184115847.5,2016
+erogacion_de_capital,Entre Ríos,423415246.652222,2016
+personal,Entre Ríos,10446075661.0,2016
+transferencias_educacion_privada,Entre Ríos,1973003234.0,2016
+transferencias_otras,Entre Ríos,82530625.0,2016
+bienes_y_servicios_no_personales,La Rioja,34682778.62,2011
+erogacion_de_capital,La Rioja,78039126.0737755,2011
+personal,La Rioja,936394305.74,2011
+transferencias_educacion_privada,La Rioja,37823879.14,2011
+transferencias_otras,La Rioja,2056141.5,2011
+bienes_y_servicios_no_personales,La Rioja,55933496.4,2012
+erogacion_de_capital,La Rioja,66295500.7377778,2012
+personal,La Rioja,1204234541.925,2012
+transferencias_educacion_privada,La Rioja,47941516.115,2012
+transferencias_otras,La Rioja,11569879.32,2012
+bienes_y_servicios_no_personales,La Rioja,78054421.99,2013
+erogacion_de_capital,La Rioja,137434061.155,2013
+personal,La Rioja,1500096745.22,2013
+transferencias_educacion_privada,La Rioja,57541916.47,2013
+transferencias_otras,La Rioja,10077194.0,2013
+bienes_y_servicios_no_personales,La Rioja,91679128.52,2014
+erogacion_de_capital,La Rioja,132908231.54,2014
+personal,La Rioja,1907456240.76,2014
+transferencias_educacion_privada,La Rioja,76887519.38,2014
+transferencias_otras,La Rioja,4937100.0,2014
+bienes_y_servicios_no_personales,La Rioja,133962451.07,2015
+erogacion_de_capital,La Rioja,190692086.673492,2015
+personal,La Rioja,2574307734.9915,2015
+transferencias_educacion_privada,La Rioja,122854410.6585,2015
+transferencias_otras,La Rioja,8749000.0,2015
+bienes_y_servicios_no_personales,La Rioja,129983319.52,2016
+erogacion_de_capital,La Rioja,98905812.981746,2016
+personal,La Rioja,3477388033.769,2016
+transferencias_educacion_privada,La Rioja,157478221.471,2016
+transferencias_otras,La Rioja,4142380.0,2016
+bienes_y_servicios_no_personales,Santa Fe,183327754.77,2011
+erogacion_de_capital,Santa Fe,171105839.133163,2011
+personal,Santa Fe,6205721836.98,2011
+transferencias_educacion_privada,Santa Fe,1616558879.0,2011
+transferencias_otras,Santa Fe,5318912.49,2011
+bienes_y_servicios_no_personales,Santa Fe,199021813.54,2012
+erogacion_de_capital,Santa Fe,128359684.308889,2012
+personal,Santa Fe,7662824797.0,2012
+transferencias_educacion_privada,Santa Fe,1984317032.0,2012
+transferencias_otras,Santa Fe,5005770.5,2012
+bienes_y_servicios_no_personales,Santa Fe,264891377.61,2013
+erogacion_de_capital,Santa Fe,473899486.875,2013
+personal,Santa Fe,9615808570.0,2013
+transferencias_educacion_privada,Santa Fe,2462523179.0,2013
+transferencias_otras,Santa Fe,5241918.0,2013
+bienes_y_servicios_no_personales,Santa Fe,379803483.23,2014
+erogacion_de_capital,Santa Fe,524778139.715,2014
+personal,Santa Fe,12625675488.27,2014
+transferencias_educacion_privada,Santa Fe,3228951915.67,2014
+transferencias_otras,Santa Fe,7688036.17,2014
+bienes_y_servicios_no_personales,Santa Fe,480653866.29,2015
+erogacion_de_capital,Santa Fe,640864010.280476,2015
+personal,Santa Fe,16779654471.26,2015
+transferencias_educacion_privada,Santa Fe,4227369365.86,2015
+transferencias_otras,Santa Fe,14908024.44,2015
+bienes_y_servicios_no_personales,Santa Fe,558489027.08,2016
+erogacion_de_capital,Santa Fe,470641826.18873,2016
+personal,Santa Fe,22385635500.9,2016
+transferencias_educacion_privada,Santa Fe,5688074324.8,2016
+transferencias_otras,Santa Fe,9231310.53,2016
+bienes_y_servicios_no_personales,Santiago del Estero,35753899.04,2011
+erogacion_de_capital,Santiago del Estero,297467154.33051,2011
+personal,Santiago del Estero,1352635267.21,2011
+transferencias_educacion_privada,Santiago del Estero,200509164.09,2011
+transferencias_otras,Santiago del Estero,15658636.08,2011
+bienes_y_servicios_no_personales,Santiago del Estero,51265449.81,2012
+erogacion_de_capital,Santiago del Estero,205591101.28,2012
+personal,Santiago del Estero,1672682335.8,2012
+transferencias_educacion_privada,Santiago del Estero,269254608.01,2012
+transferencias_otras,Santiago del Estero,14022474.27,2012
+bienes_y_servicios_no_personales,Santiago del Estero,61362797.28,2013
+erogacion_de_capital,Santiago del Estero,440149918.67,2013
+personal,Santiago del Estero,2035348105.99,2013
+transferencias_educacion_privada,Santiago del Estero,320399649.15,2013
+transferencias_otras,Santiago del Estero,25605950.56,2013
+bienes_y_servicios_no_personales,Santiago del Estero,80527327.07,2014
+erogacion_de_capital,Santiago del Estero,599304536.654,2014
+personal,Santiago del Estero,2536923371.69,2014
+transferencias_educacion_privada,Santiago del Estero,408461351.28,2014
+transferencias_otras,Santiago del Estero,31270358.95,2014
+bienes_y_servicios_no_personales,Santiago del Estero,118900074.58,2015
+erogacion_de_capital,Santiago del Estero,514126819.470984,2015
+personal,Santiago del Estero,3406638217.99,2015
+transferencias_educacion_privada,Santiago del Estero,553533437.42,2015
+transferencias_otras,Santiago del Estero,25434050.75,2015
+bienes_y_servicios_no_personales,Santiago del Estero,131570789.35,2016
+erogacion_de_capital,Santiago del Estero,494794034.045238,2016
+personal,Santiago del Estero,4770380104.98,2016
+transferencias_educacion_privada,Santiago del Estero,786024411.44,2016
+transferencias_otras,Santiago del Estero,22001333.07,2016
+bienes_y_servicios_no_personales,Chubut,73608487.08,2011
+erogacion_de_capital,Chubut,302654868.397347,2011
+personal,Chubut,1483477917.19,2011
+transferencias_educacion_privada,Chubut,61523763.28,2011
+transferencias_otras,Chubut,19702823.06,2011
+bienes_y_servicios_no_personales,Chubut,134730772.54,2012
+erogacion_de_capital,Chubut,222561526.631481,2012
+personal,Chubut,1946752200.31,2012
+transferencias_educacion_privada,Chubut,93746079.48,2012
+transferencias_otras,Chubut,22355534.5,2012
+bienes_y_servicios_no_personales,Chubut,132898439.82,2013
+erogacion_de_capital,Chubut,203796286.35,2013
+personal,Chubut,2695301067.6,2013
+transferencias_educacion_privada,Chubut,139909535.62,2013
+transferencias_otras,Chubut,25585126.15,2013
+bienes_y_servicios_no_personales,Chubut,212752252.28,2014
+erogacion_de_capital,Chubut,275570679.255,2014
+personal,Chubut,3988144486.83,2014
+transferencias_educacion_privada,Chubut,202977605.99,2014
+transferencias_otras,Chubut,31388586.87,2014
+bienes_y_servicios_no_personales,Chubut,310723750.16,2015
+erogacion_de_capital,Chubut,260049842.453968,2015
+personal,Chubut,5546742032.24,2015
+transferencias_educacion_privada,Chubut,275113652.45,2015
+transferencias_otras,Chubut,34921500.64,2015
+bienes_y_servicios_no_personales,Chubut,306265930.61,2016
+erogacion_de_capital,Chubut,320833440.87873,2016
+personal,Chubut,7635855493.29,2016
+transferencias_educacion_privada,Chubut,346086722.48,2016
+transferencias_otras,Chubut,44197250.37,2016
+bienes_y_servicios_no_personales,Córdoba,169161608.48219,2011
+erogacion_de_capital,Córdoba,403467904.376149,2011
+personal,Córdoba,4650211730.77,2011
+transferencias_educacion_privada,Córdoba,1488513200.95,2011
+transferencias_otras,Córdoba,15005161.61,2011
+bienes_y_servicios_no_personales,Córdoba,236855948.5829,2012
+erogacion_de_capital,Córdoba,412112877.259941,2012
+personal,Córdoba,5967174312.16,2012
+transferencias_educacion_privada,Córdoba,1874409915.94,2012
+transferencias_otras,Córdoba,15417710.07,2012
+bienes_y_servicios_no_personales,Córdoba,274145167.82892,2013
+erogacion_de_capital,Córdoba,716449570.33532,2013
+personal,Córdoba,7755600348.45,2013
+transferencias_educacion_privada,Córdoba,2397607495.65,2013
+transferencias_otras,Córdoba,9679537.25,2013
+bienes_y_servicios_no_personales,Córdoba,406386614.85,2014
+erogacion_de_capital,Córdoba,880913516.965,2014
+personal,Córdoba,10444661037.0,2014
+transferencias_educacion_privada,Córdoba,3346149175.0,2014
+transferencias_otras,Córdoba,46390119.0,2014
+bienes_y_servicios_no_personales,Córdoba,702698156.48057,2015
+erogacion_de_capital,Córdoba,639703179.842098,2015
+personal,Córdoba,14557885278.18,2015
+transferencias_educacion_privada,Córdoba,4423229220.75,2015
+transferencias_otras,Córdoba,27494078.66925,2015
+bienes_y_servicios_no_personales,Córdoba,785155797.16693,2016
+erogacion_de_capital,Córdoba,655564829.301888,2016
+personal,Córdoba,19583643429.37,2016
+transferencias_educacion_privada,Córdoba,5898537811.79,2016
+transferencias_otras,Córdoba,10711413.03,2016
+bienes_y_servicios_no_personales,Catamarca,69072369.21,2011
+erogacion_de_capital,Catamarca,74333501.8062755,2011
+personal,Catamarca,1045999655.54,2011
+transferencias_educacion_privada,Catamarca,106443991.87,2011
+transferencias_otras,Catamarca,20460558.49,2011
+bienes_y_servicios_no_personales,Catamarca,49221452.84,2012
+erogacion_de_capital,Catamarca,101692070.656296,2012
+personal,Catamarca,1293708916.86,2012
+transferencias_educacion_privada,Catamarca,155215947.29,2012
+transferencias_otras,Catamarca,13108210.66,2012
+bienes_y_servicios_no_personales,Catamarca,67875287.61,2013
+erogacion_de_capital,Catamarca,108666257.525,2013
+personal,Catamarca,1672179804.66,2013
+transferencias_educacion_privada,Catamarca,187672103.76,2013
+transferencias_otras,Catamarca,20052688.15,2013
+bienes_y_servicios_no_personales,Catamarca,110189998.92,2014
+erogacion_de_capital,Catamarca,154377337.115,2014
+personal,Catamarca,2162097078.94,2014
+transferencias_educacion_privada,Catamarca,247471476.96,2014
+transferencias_otras,Catamarca,28176431.8,2014
+bienes_y_servicios_no_personales,Catamarca,126431970.87,2015
+erogacion_de_capital,Catamarca,177392800.242222,2015
+personal,Catamarca,3084813481.31,2015
+transferencias_educacion_privada,Catamarca,347879448.18,2015
+transferencias_otras,Catamarca,109897950.91,2015
+bienes_y_servicios_no_personales,Catamarca,167549888.96,2016
+erogacion_de_capital,Catamarca,198440256.471746,2016
+personal,Catamarca,4290375590.39,2016
+transferencias_educacion_privada,Catamarca,498989305.5,2016
+transferencias_otras,Catamarca,111290051.93,2016
+bienes_y_servicios_no_personales,Salta,80804655.19,2011
+erogacion_de_capital,Salta,192484106.204235,2011
+personal,Salta,1623567962.99,2011
+transferencias_educacion_privada,Salta,182209557.37,2011
+transferencias_otras,Salta,9803195.9,2011
+bienes_y_servicios_no_personales,Salta,110565548.01,2012
+erogacion_de_capital,Salta,199178171.73037,2012
+personal,Salta,2044223983.98,2012
+transferencias_educacion_privada,Salta,182081042.31,2012
+transferencias_otras,Salta,67507603.72,2012
+bienes_y_servicios_no_personales,Salta,152115645.56,2013
+erogacion_de_capital,Salta,459165484.395,2013
+personal,Salta,2404970172.35,2013
+transferencias_educacion_privada,Salta,228943143.99,2013
+transferencias_otras,Salta,84421382.94,2013
+bienes_y_servicios_no_personales,Salta,211293462.03,2014
+erogacion_de_capital,Salta,528757873.628,2014
+personal,Salta,3937724999.12,2014
+transferencias_educacion_privada,Salta,289456164.08,2014
+transferencias_otras,Salta,102923334.26,2014
+bienes_y_servicios_no_personales,Salta,303284196.8,2015
+erogacion_de_capital,Salta,646516455.409698,2015
+personal,Salta,6059524992.16,2015
+transferencias_educacion_privada,Salta,446831501.42,2015
+transferencias_otras,Salta,268506894.28,2015
+bienes_y_servicios_no_personales,Salta,246768089.81,2016
+erogacion_de_capital,Salta,427955784.263492,2016
+personal,Salta,8927716873.25,2016
+transferencias_educacion_privada,Salta,641469078.01,2016
+transferencias_otras,Salta,368814910.87,2016

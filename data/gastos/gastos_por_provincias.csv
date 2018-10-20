@@ -1,0 +1,721 @@
+nombre,provincia,valor,year
+inicial+primaria,Buenos Aires,9901979445.0,2011
+privada,Buenos Aires,4088816402.0,2011
+secundaria,Buenos Aires,12062368629.0,2011
+sin_discriminar,Buenos Aires,4866835425.0,2011
+snu,Buenos Aires,927565827.0,2011
+inicial+primaria,Buenos Aires,12636186951.0,2012
+privada,Buenos Aires,4925455963.0,2012
+secundaria,Buenos Aires,13357975646.0,2012
+sin_discriminar,Buenos Aires,5900202453.0,2012
+snu,Buenos Aires,1324361906.0,2012
+inicial+primaria,Buenos Aires,15486607968.0,2013
+privada,Buenos Aires,5695902123.0,2013
+secundaria,Buenos Aires,18880236512.0,2013
+sin_discriminar,Buenos Aires,6364232732.0,2013
+snu,Buenos Aires,1735530428.0,2013
+inicial+primaria,Buenos Aires,19548647267.0,2014
+privada,Buenos Aires,7542022525.0,2014
+secundaria,Buenos Aires,21911174333.0,2014
+sin_discriminar,Buenos Aires,9938389323.0,2014
+snu,Buenos Aires,2446066367.0,2014
+inicial+primaria,Buenos Aires,31151909522.0,2015
+privada,Buenos Aires,10775413376.0,2015
+secundaria,Buenos Aires,29966904265.0,2015
+sin_discriminar,Buenos Aires,14579009370.0,2015
+snu,Buenos Aires,4413118787.0,2015
+inicial+primaria,Buenos Aires,40563029196.0,2016
+privada,Buenos Aires,14423944392.0,2016
+secundaria,Buenos Aires,37968909768.0,2016
+sin_discriminar,Buenos Aires,17744235281.0,2016
+snu,Buenos Aires,5107257309.0,2016
+inicial+primaria,Catamarca,659952451.0,2011
+privada,Catamarca,106443992.0,2011
+secundaria,Catamarca,311773217.0,2011
+sin_discriminar,Catamarca,162420708.0,2011
+snu,Catamarca,75719709.0,2011
+inicial+primaria,Catamarca,765849422.0,2012
+privada,Catamarca,155215947.0,2012
+secundaria,Catamarca,423319074.0,2012
+sin_discriminar,Catamarca,125345979.0,2012
+snu,Catamarca,143216176.0,2012
+inicial+primaria,Catamarca,893604810.0,2013
+privada,Catamarca,187672104.0,2013
+secundaria,Catamarca,697536202.0,2013
+sin_discriminar,Catamarca,136757799.0,2013
+snu,Catamarca,140875227.0,2013
+inicial+primaria,Catamarca,1115054934.0,2014
+privada,Catamarca,247471477.0,2014
+secundaria,Catamarca,938768287.0,2014
+sin_discriminar,Catamarca,228767787.0,2014
+snu,Catamarca,172249839.0,2014
+inicial+primaria,Catamarca,1565843244.0,2015
+privada,Catamarca,347879448.0,2015
+secundaria,Catamarca,1274943312.0,2015
+sin_discriminar,Catamarca,384562185.0,2015
+snu,Catamarca,273187463.0,2015
+inicial+primaria,Catamarca,2130927341.0,2016
+privada,Catamarca,498989306.0,2016
+secundaria,Catamarca,1719851162.0,2016
+sin_discriminar,Catamarca,529817527.0,2016
+snu,Catamarca,387059758.0,2016
+inicial+primaria,Chaco,1507608915.0,2011
+privada,Chaco,161346967.0,2011
+secundaria,Chaco,959227664.0,2011
+sin_discriminar,Chaco,602619788.0,2011
+snu,Chaco,114068140.0,2011
+inicial+primaria,Chaco,1784047991.0,2012
+privada,Chaco,247709657.0,2012
+secundaria,Chaco,1292865589.0,2012
+sin_discriminar,Chaco,636939675.0,2012
+snu,Chaco,192009870.0,2012
+inicial+primaria,Chaco,1972227852.0,2013
+privada,Chaco,332647161.0,2013
+secundaria,Chaco,1689649712.0,2013
+sin_discriminar,Chaco,1016046294.0,2013
+snu,Chaco,226593313.0,2013
+inicial+primaria,Chaco,3041566638.0,2014
+privada,Chaco,461775157.0,2014
+secundaria,Chaco,2338842403.0,2014
+sin_discriminar,Chaco,799405262.0,2014
+snu,Chaco,330538356.0,2014
+inicial+primaria,Chaco,3782101534.0,2015
+privada,Chaco,637471267.0,2015
+secundaria,Chaco,3064549766.0,2015
+sin_discriminar,Chaco,1423798955.0,2015
+snu,Chaco,476745647.0,2015
+inicial+primaria,Chaco,5669478141.0,2016
+privada,Chaco,1029350251.0,2016
+secundaria,Chaco,4261372042.0,2016
+sin_discriminar,Chaco,1811722030.0,2016
+snu,Chaco,719000519.0,2016
+inicial+primaria,Chubut,704255548.0,2011
+privada,Chubut,61523763.0,2011
+secundaria,Chubut,560024400.0,2011
+sin_discriminar,Chubut,523072586.0,2011
+snu,Chubut,92091562.0,2011
+inicial+primaria,Chubut,1033769809.0,2012
+privada,Chubut,93746079.0,2012
+secundaria,Chubut,621778497.0,2012
+sin_discriminar,Chubut,549263649.0,2012
+snu,Chubut,121588079.0,2012
+inicial+primaria,Chubut,1269035619.0,2013
+privada,Chubut,139909536.0,2013
+secundaria,Chubut,963664176.0,2013
+sin_discriminar,Chubut,649980673.0,2013
+snu,Chubut,174900452.0,2013
+inicial+primaria,Chubut,1897268229.0,2014
+privada,Chubut,202977606.0,2014
+secundaria,Chubut,1462130661.0,2014
+sin_discriminar,Chubut,859584258.0,2014
+snu,Chubut,288872857.0,2014
+inicial+primaria,Chubut,2841988607.0,2015
+privada,Chubut,275113652.0,2015
+secundaria,Chubut,1919081349.0,2015
+sin_discriminar,Chubut,972073882.0,2015
+snu,Chubut,419293287.0,2015
+inicial+primaria,Chubut,3922367978.0,2016
+privada,Chubut,346086722.0,2016
+secundaria,Chubut,2646603456.0,2016
+sin_discriminar,Chubut,1190250245.0,2016
+snu,Chubut,547930436.0,2016
+inicial+primaria,Córdoba,2179977396.0,2011
+privada,Córdoba,1488513201.0,2011
+secundaria,Córdoba,2177886386.0,2011
+sin_discriminar,Córdoba,467166082.0,2011
+snu,Córdoba,412816542.0,2011
+inicial+primaria,Córdoba,2809526876.0,2012
+privada,Córdoba,1874409916.0,2012
+secundaria,Córdoba,2782539430.0,2012
+sin_discriminar,Córdoba,563163919.0,2012
+snu,Córdoba,476330623.0,2012
+inicial+primaria,Córdoba,3596977867.0,2013
+privada,Córdoba,2397607496.0,2013
+secundaria,Córdoba,3895438416.0,2013
+sin_discriminar,Córdoba,641001387.0,2013
+snu,Córdoba,622456954.0,2013
+inicial+primaria,Córdoba,5501976916.0,2014
+privada,Córdoba,3346149175.0,2014
+secundaria,Córdoba,4492512997.0,2014
+sin_discriminar,Córdoba,1010448836.0,2014
+snu,Córdoba,773412538.0,2014
+inicial+primaria,Córdoba,7542412613.0,2015
+privada,Córdoba,4423229221.0,2015
+secundaria,Córdoba,6202745052.0,2015
+sin_discriminar,Córdoba,1070805653.0,2015
+snu,Córdoba,1111817375.0,2015
+inicial+primaria,Córdoba,9683129447.0,2016
+privada,Córdoba,5898537812.0,2016
+secundaria,Córdoba,8609747172.0,2016
+sin_discriminar,Córdoba,1292969765.0,2016
+snu,Córdoba,1449229085.0,2016
+inicial+primaria,Corrientes,836888718.0,2011
+privada,Corrientes,224272255.0,2011
+secundaria,Corrientes,1012551406.0,2011
+sin_discriminar,Corrientes,194567901.0,2011
+snu,Corrientes,175603783.0,2011
+inicial+primaria,Corrientes,1071181603.0,2012
+privada,Corrientes,291973778.0,2012
+secundaria,Corrientes,1250246212.0,2012
+sin_discriminar,Corrientes,138513039.0,2012
+snu,Corrientes,209873209.0,2012
+inicial+primaria,Corrientes,1338328765.0,2013
+privada,Corrientes,365304899.0,2013
+secundaria,Corrientes,1626178630.0,2013
+sin_discriminar,Corrientes,245316898.0,2013
+snu,Corrientes,256305593.0,2013
+inicial+primaria,Corrientes,1802362615.0,2014
+privada,Corrientes,492869790.0,2014
+secundaria,Corrientes,2033874309.0,2014
+sin_discriminar,Corrientes,301252941.0,2014
+snu,Corrientes,340658444.0,2014
+inicial+primaria,Corrientes,2409018798.0,2015
+privada,Corrientes,639829605.0,2015
+secundaria,Corrientes,2562338843.0,2015
+sin_discriminar,Corrientes,539838631.0,2015
+snu,Corrientes,441343210.0,2015
+inicial+primaria,Corrientes,3211147721.0,2016
+privada,Corrientes,880704857.0,2016
+secundaria,Corrientes,3971172852.0,2016
+sin_discriminar,Corrientes,652413556.0,2016
+snu,Corrientes,677870175.0,2016
+inicial+primaria,Entre Ríos,1371308348.0,2011
+privada,Entre Ríos,478898566.0,2011
+secundaria,Entre Ríos,1213993389.0,2011
+sin_discriminar,Entre Ríos,140756275.0,2011
+snu,Entre Ríos,90366235.0,2011
+inicial+primaria,Entre Ríos,1669160045.0,2012
+privada,Entre Ríos,574221206.0,2012
+secundaria,Entre Ríos,1398936036.0,2012
+sin_discriminar,Entre Ríos,134289472.0,2012
+snu,Entre Ríos,115104281.0,2012
+inicial+primaria,Entre Ríos,2040923079.0,2013
+privada,Entre Ríos,866943208.0,2013
+secundaria,Entre Ríos,1935649008.0,2013
+sin_discriminar,Entre Ríos,237605152.0,2013
+snu,Entre Ríos,177187901.0,2013
+inicial+primaria,Entre Ríos,3016493227.0,2014
+privada,Entre Ríos,1131279836.0,2014
+secundaria,Entre Ríos,2413105212.0,2014
+sin_discriminar,Entre Ríos,317965280.0,2014
+snu,Entre Ríos,238454413.0,2014
+inicial+primaria,Entre Ríos,4121750093.0,2015
+privada,Entre Ríos,1425894193.0,2015
+secundaria,Entre Ríos,3501739190.0,2015
+sin_discriminar,Entre Ríos,489937850.0,2015
+snu,Entre Ríos,306750853.0,2015
+inicial+primaria,Entre Ríos,5542083559.0,2016
+privada,Entre Ríos,1973003234.0,2016
+secundaria,Entre Ríos,4753591243.0,2016
+sin_discriminar,Entre Ríos,431215267.0,2016
+snu,Entre Ríos,409247312.0,2016
+inicial+primaria,Formosa,699160298.0,2011
+privada,Formosa,47370986.0,2011
+secundaria,Formosa,604146108.0,2011
+sin_discriminar,Formosa,251895781.0,2011
+snu,Formosa,99265566.0,2011
+inicial+primaria,Formosa,988703162.0,2012
+privada,Formosa,49868979.0,2012
+secundaria,Formosa,736791118.0,2012
+sin_discriminar,Formosa,103434847.0,2012
+snu,Formosa,174254824.0,2012
+inicial+primaria,Formosa,1191593714.0,2013
+privada,Formosa,67094104.0,2013
+secundaria,Formosa,1012932773.0,2013
+sin_discriminar,Formosa,80700137.0,2013
+snu,Formosa,224685855.0,2013
+inicial+primaria,Formosa,1571910896.0,2014
+privada,Formosa,89851783.0,2014
+secundaria,Formosa,1280267629.0,2014
+sin_discriminar,Formosa,162339232.0,2014
+snu,Formosa,322227764.0,2014
+inicial+primaria,Formosa,2284083097.0,2015
+privada,Formosa,123797497.0,2015
+secundaria,Formosa,1694215250.0,2015
+sin_discriminar,Formosa,311817465.0,2015
+snu,Formosa,428532571.0,2015
+inicial+primaria,Formosa,3035031202.0,2016
+privada,Formosa,185717716.0,2016
+secundaria,Formosa,2236338249.0,2016
+sin_discriminar,Formosa,322692609.0,2016
+snu,Formosa,482704858.0,2016
+inicial+primaria,Jujuy,916326717.0,2011
+privada,Jujuy,153891970.0,2011
+secundaria,Jujuy,749409481.0,2011
+sin_discriminar,Jujuy,119154420.0,2011
+snu,Jujuy,71080941.0,2011
+inicial+primaria,Jujuy,1050539079.0,2012
+privada,Jujuy,198080410.0,2012
+secundaria,Jujuy,872039197.0,2012
+sin_discriminar,Jujuy,255678413.0,2012
+snu,Jujuy,89545248.0,2012
+inicial+primaria,Jujuy,1364692021.0,2013
+privada,Jujuy,268560000.0,2013
+secundaria,Jujuy,1178544947.0,2013
+sin_discriminar,Jujuy,325646893.0,2013
+snu,Jujuy,116804745.0,2013
+inicial+primaria,Jujuy,1828204174.0,2014
+privada,Jujuy,254333000.0,2014
+secundaria,Jujuy,1516678427.0,2014
+sin_discriminar,Jujuy,364190482.0,2014
+snu,Jujuy,155889759.0,2014
+inicial+primaria,Jujuy,2708151105.0,2015
+privada,Jujuy,361549991.0,2015
+secundaria,Jujuy,2231778276.0,2015
+sin_discriminar,Jujuy,482053797.0,2015
+snu,Jujuy,235265051.0,2015
+inicial+primaria,Jujuy,3410228027.0,2016
+privada,Jujuy,408980000.0,2016
+secundaria,Jujuy,2874156059.0,2016
+sin_discriminar,Jujuy,486344660.0,2016
+snu,Jujuy,278099303.0,2016
+inicial+primaria,La Pampa,698505174.0,2011
+privada,La Pampa,121056621.0,2011
+secundaria,La Pampa,286109398.0,2011
+sin_discriminar,La Pampa,148020727.0,2011
+snu,La Pampa,41499236.0,2011
+inicial+primaria,La Pampa,860611503.0,2012
+privada,La Pampa,159611209.0,2012
+secundaria,La Pampa,461549304.0,2012
+sin_discriminar,La Pampa,185822548.0,2012
+snu,La Pampa,64008189.0,2012
+inicial+primaria,La Pampa,1050940311.0,2013
+privada,La Pampa,205550516.0,2013
+secundaria,La Pampa,660993912.0,2013
+sin_discriminar,La Pampa,253871857.0,2013
+snu,La Pampa,104993270.0,2013
+inicial+primaria,La Pampa,1371432919.0,2014
+privada,La Pampa,274239751.0,2014
+secundaria,La Pampa,869918567.0,2014
+sin_discriminar,La Pampa,345484980.0,2014
+snu,La Pampa,160049142.0,2014
+inicial+primaria,La Pampa,1810017758.0,2015
+privada,La Pampa,368109837.0,2015
+secundaria,La Pampa,1300311425.0,2015
+sin_discriminar,La Pampa,426288447.0,2015
+snu,La Pampa,126270805.0,2015
+inicial+primaria,La Pampa,2459586377.0,2016
+privada,La Pampa,488981391.0,2016
+secundaria,La Pampa,1659896904.0,2016
+sin_discriminar,La Pampa,599982056.0,2016
+snu,La Pampa,167231128.0,2016
+inicial+primaria,La Rioja,495695787.0,2011
+privada,La Rioja,37823879.0,2011
+secundaria,La Rioja,374388759.0,2011
+sin_discriminar,La Rioja,83556879.0,2011
+snu,La Rioja,97530927.0,2011
+inicial+primaria,La Rioja,605488354.0,2012
+privada,La Rioja,47941516.0,2012
+secundaria,La Rioja,442743742.0,2012
+sin_discriminar,La Rioja,159656480.0,2012
+snu,La Rioja,130144843.0,2012
+inicial+primaria,La Rioja,793346897.0,2013
+privada,La Rioja,57541916.0,2013
+secundaria,La Rioja,622429093.0,2013
+sin_discriminar,La Rioja,143442135.0,2013
+snu,La Rioja,166444298.0,2013
+inicial+primaria,La Rioja,986911811.0,2014
+privada,La Rioja,76887519.0,2014
+secundaria,La Rioja,741572789.0,2014
+sin_discriminar,La Rioja,196266701.0,2014
+snu,La Rioja,212229400.0,2014
+inicial+primaria,La Rioja,1323148827.0,2015
+privada,La Rioja,122854411.0,2015
+secundaria,La Rioja,1002088855.0,2015
+sin_discriminar,La Rioja,285710721.0,2015
+snu,La Rioja,296762870.0,2015
+inicial+primaria,La Rioja,1773251418.0,2016
+privada,La Rioja,157478221.0,2016
+secundaria,La Rioja,1292389992.0,2016
+sin_discriminar,La Rioja,253196835.0,2016
+snu,La Rioja,391581303.0,2016
+inicial+primaria,Mendoza,1786652463.0,2011
+privada,Mendoza,374071456.0,2011
+secundaria,Mendoza,1449367898.0,2011
+sin_discriminar,Mendoza,285473502.0,2011
+snu,Mendoza,180063855.0,2011
+inicial+primaria,Mendoza,1899611045.0,2012
+privada,Mendoza,486289174.0,2012
+secundaria,Mendoza,2093395594.0,2012
+sin_discriminar,Mendoza,348221220.0,2012
+snu,Mendoza,250919809.0,2012
+inicial+primaria,Mendoza,2539122556.0,2013
+privada,Mendoza,641532448.0,2013
+secundaria,Mendoza,2907886696.0,2013
+sin_discriminar,Mendoza,269734309.0,2013
+snu,Mendoza,316904265.0,2013
+inicial+primaria,Mendoza,4142985633.0,2014
+privada,Mendoza,864994699.0,2014
+secundaria,Mendoza,2798672384.0,2014
+sin_discriminar,Mendoza,333392478.0,2014
+snu,Mendoza,487668797.0,2014
+inicial+primaria,Mendoza,4211286267.0,2015
+privada,Mendoza,1186080500.0,2015
+secundaria,Mendoza,3987604055.0,2015
+sin_discriminar,Mendoza,2369179298.0,2015
+snu,Mendoza,719886366.0,2015
+inicial+primaria,Mendoza,5958320664.0,2016
+privada,Mendoza,1533309490.0,2016
+secundaria,Mendoza,5737590212.0,2016
+sin_discriminar,Mendoza,642859529.0,2016
+snu,Mendoza,1039795219.0,2016
+inicial+primaria,Misiones,1137659062.0,2011
+privada,Misiones,343600944.0,2011
+secundaria,Misiones,700710491.0,2011
+sin_discriminar,Misiones,250935477.0,2011
+snu,Misiones,69694790.0,2011
+inicial+primaria,Misiones,1320279634.0,2012
+privada,Misiones,490567482.0,2012
+secundaria,Misiones,948704436.0,2012
+sin_discriminar,Misiones,298708646.0,2012
+snu,Misiones,99423038.0,2012
+inicial+primaria,Misiones,1693146542.0,2013
+privada,Misiones,637428280.0,2013
+secundaria,Misiones,1339518289.0,2013
+sin_discriminar,Misiones,448147298.0,2013
+snu,Misiones,135340769.0,2013
+inicial+primaria,Misiones,2343021818.0,2014
+privada,Misiones,914819922.0,2014
+secundaria,Misiones,1714915571.0,2014
+sin_discriminar,Misiones,637690558.0,2014
+snu,Misiones,173927083.0,2014
+inicial+primaria,Misiones,3393863796.0,2015
+privada,Misiones,1364915787.0,2015
+secundaria,Misiones,2468548980.0,2015
+sin_discriminar,Misiones,792023547.0,2015
+snu,Misiones,255171103.0,2015
+inicial+primaria,Misiones,4764915887.0,2016
+privada,Misiones,1926410008.0,2016
+secundaria,Misiones,3352582440.0,2016
+sin_discriminar,Misiones,914648662.0,2016
+snu,Misiones,367363599.0,2016
+inicial+primaria,Neuquén,860780117.0,2011
+privada,Neuquén,122737472.0,2011
+secundaria,Neuquén,763153603.0,2011
+sin_discriminar,Neuquén,658853565.0,2011
+snu,Neuquén,114419365.0,2011
+inicial+primaria,Neuquén,1111630420.0,2012
+privada,Neuquén,157499073.0,2012
+secundaria,Neuquén,1078236385.0,2012
+sin_discriminar,Neuquén,738228715.0,2012
+snu,Neuquén,166250715.0,2012
+inicial+primaria,Neuquén,1489428478.0,2013
+privada,Neuquén,191450654.0,2013
+secundaria,Neuquén,1277637147.0,2013
+sin_discriminar,Neuquén,820117007.0,2013
+snu,Neuquén,209660718.0,2013
+inicial+primaria,Neuquén,2462628127.0,2014
+privada,Neuquén,277823266.0,2014
+secundaria,Neuquén,2109127100.0,2014
+sin_discriminar,Neuquén,738505221.0,2014
+snu,Neuquén,307567420.0,2014
+inicial+primaria,Neuquén,3878281416.0,2015
+privada,Neuquén,410063654.0,2015
+secundaria,Neuquén,3249293967.0,2015
+sin_discriminar,Neuquén,1117685403.0,2015
+snu,Neuquén,448216872.0,2015
+inicial+primaria,Neuquén,5332276984.0,2016
+privada,Neuquén,539804982.0,2016
+secundaria,Neuquén,4305708744.0,2016
+sin_discriminar,Neuquén,1164423091.0,2016
+snu,Neuquén,659609021.0,2016
+inicial+primaria,Río Negro,867722182.0,2011
+privada,Río Negro,113984754.0,2011
+secundaria,Río Negro,587116541.0,2011
+sin_discriminar,Río Negro,369296870.0,2011
+snu,Río Negro,84044169.0,2011
+inicial+primaria,Río Negro,1122444460.0,2012
+privada,Río Negro,176607272.0,2012
+secundaria,Río Negro,788273979.0,2012
+sin_discriminar,Río Negro,396104955.0,2012
+snu,Río Negro,106631755.0,2012
+inicial+primaria,Río Negro,1414596407.0,2013
+privada,Río Negro,233777963.0,2013
+secundaria,Río Negro,1161126997.0,2013
+sin_discriminar,Río Negro,742168128.0,2013
+snu,Río Negro,134244282.0,2013
+inicial+primaria,Río Negro,1815836297.0,2014
+privada,Río Negro,266178676.0,2014
+secundaria,Río Negro,1397537523.0,2014
+sin_discriminar,Río Negro,878174562.0,2014
+snu,Río Negro,185672567.0,2014
+inicial+primaria,Río Negro,2629909373.0,2015
+privada,Río Negro,448215800.0,2015
+secundaria,Río Negro,1930570244.0,2015
+sin_discriminar,Río Negro,1728744498.0,2015
+snu,Río Negro,262078858.0,2015
+inicial+primaria,Río Negro,4043546461.0,2016
+privada,Río Negro,549975648.0,2016
+secundaria,Río Negro,2540936868.0,2016
+sin_discriminar,Río Negro,1260119194.0,2016
+snu,Río Negro,360905357.0,2016
+inicial+primaria,Salta,1091403520.0,2011
+privada,Salta,182209557.0,2011
+secundaria,Salta,675467966.0,2011
+sin_discriminar,Salta,57585357.0,2011
+snu,Salta,82203077.0,2011
+inicial+primaria,Salta,1315594069.0,2012
+privada,Salta,182081042.0,2012
+secundaria,Salta,849134451.0,2012
+sin_discriminar,Salta,171821134.0,2012
+snu,Salta,84925654.0,2012
+inicial+primaria,Salta,1729229029.0,2013
+privada,Salta,228943144.0,2013
+secundaria,Salta,1032673529.0,2013
+sin_discriminar,Salta,220861874.0,2013
+snu,Salta,117908253.0,2013
+inicial+primaria,Salta,2465241837.0,2014
+privada,Salta,289456164.0,2014
+secundaria,Salta,1776020009.0,2014
+sin_discriminar,Salta,368050424.0,2014
+snu,Salta,171387399.0,2014
+inicial+primaria,Salta,3770372510.0,2015
+privada,Salta,446831501.0,2015
+secundaria,Salta,2590725040.0,2015
+sin_discriminar,Salta,640554915.0,2015
+snu,Salta,276180073.0,2015
+inicial+primaria,Salta,5463782114.0,2016
+privada,Salta,641469078.0,2016
+secundaria,Salta,3485103248.0,2016
+sin_discriminar,Salta,641204054.0,2016
+snu,Salta,381166242.0,2016
+inicial+primaria,San Juan,552253596.0,2011
+privada,San Juan,206389609.0,2011
+secundaria,San Juan,543104281.0,2011
+sin_discriminar,San Juan,254234666.0,2011
+snu,San Juan,48644588.0,2011
+inicial+primaria,San Juan,697688370.0,2012
+privada,San Juan,275142258.0,2012
+secundaria,San Juan,662920429.0,2012
+sin_discriminar,San Juan,283133004.0,2012
+snu,San Juan,64367269.0,2012
+inicial+primaria,San Juan,927292301.0,2013
+privada,San Juan,353647430.0,2013
+secundaria,San Juan,895512661.0,2013
+sin_discriminar,San Juan,278492245.0,2013
+snu,San Juan,83706286.0,2013
+inicial+primaria,San Juan,1246961083.0,2014
+privada,San Juan,486875235.0,2014
+secundaria,San Juan,1156731017.0,2014
+sin_discriminar,San Juan,569430152.0,2014
+snu,San Juan,110323039.0,2014
+inicial+primaria,San Juan,2135785958.0,2015
+privada,San Juan,662101690.0,2015
+secundaria,San Juan,1512786191.0,2015
+sin_discriminar,San Juan,556377369.0,2015
+snu,San Juan,149758517.0,2015
+inicial+primaria,San Juan,2914391338.0,2016
+privada,San Juan,922026384.0,2016
+secundaria,San Juan,1985166749.0,2016
+sin_discriminar,San Juan,640551975.0,2016
+snu,San Juan,196032969.0,2016
+inicial+primaria,San Luis,268162479.0,2011
+privada,San Luis,107766935.0,2011
+secundaria,San Luis,330947350.0,2011
+sin_discriminar,San Luis,76771252.0,2011
+snu,San Luis,30771868.0,2011
+inicial+primaria,San Luis,342276458.0,2012
+privada,San Luis,137764250.0,2012
+secundaria,San Luis,397138368.0,2012
+sin_discriminar,San Luis,245423486.0,2012
+snu,San Luis,41519676.0,2012
+inicial+primaria,San Luis,427498677.0,2013
+privada,San Luis,180847121.0,2013
+secundaria,San Luis,661993243.0,2013
+sin_discriminar,San Luis,381311223.0,2013
+snu,San Luis,62848345.0,2013
+inicial+primaria,San Luis,666318204.0,2014
+privada,San Luis,273826740.0,2014
+secundaria,San Luis,998160427.0,2014
+sin_discriminar,San Luis,628055609.0,2014
+snu,San Luis,88212710.0,2014
+inicial+primaria,San Luis,862169451.0,2015
+privada,San Luis,379193065.0,2015
+secundaria,San Luis,1018642140.0,2015
+sin_discriminar,San Luis,1516429904.0,2015
+snu,San Luis,134586319.0,2015
+inicial+primaria,San Luis,1194320612.0,2016
+privada,San Luis,605514902.0,2016
+secundaria,San Luis,1447295383.0,2016
+sin_discriminar,San Luis,1773781538.0,2016
+snu,San Luis,215757381.0,2016
+inicial+primaria,Santa Cruz,790443484.0,2011
+privada,Santa Cruz,177295422.0,2011
+secundaria,Santa Cruz,431827351.0,2011
+sin_discriminar,Santa Cruz,290610757.0,2011
+snu,Santa Cruz,30973624.0,2011
+inicial+primaria,Santa Cruz,860348019.0,2012
+privada,Santa Cruz,209511033.0,2012
+secundaria,Santa Cruz,513797446.0,2012
+sin_discriminar,Santa Cruz,353689804.0,2012
+snu,Santa Cruz,37534807.0,2012
+inicial+primaria,Santa Cruz,1103225599.0,2013
+privada,Santa Cruz,253317370.0,2013
+secundaria,Santa Cruz,705107449.0,2013
+sin_discriminar,Santa Cruz,470219853.0,2013
+snu,Santa Cruz,49155524.0,2013
+inicial+primaria,Santa Cruz,1907061553.0,2014
+privada,Santa Cruz,421610235.0,2014
+secundaria,Santa Cruz,1403933382.0,2014
+sin_discriminar,Santa Cruz,705662687.0,2014
+snu,Santa Cruz,87463075.0,2014
+inicial+primaria,Santa Cruz,2211707081.0,2015
+privada,Santa Cruz,571197984.0,2015
+secundaria,Santa Cruz,1999681022.0,2015
+sin_discriminar,Santa Cruz,1107134835.0,2015
+snu,Santa Cruz,124136488.0,2015
+inicial+primaria,Santa Cruz,2911890038.0,2016
+privada,Santa Cruz,742469549.0,2016
+secundaria,Santa Cruz,2265115284.0,2016
+sin_discriminar,Santa Cruz,1501500773.0,2016
+snu,Santa Cruz,166276186.0,2016
+inicial+primaria,Santa Fe,3915306022.0,2011
+privada,Santa Fe,1616558879.0,2011
+secundaria,Santa Fe,2055596896.0,2011
+sin_discriminar,Santa Fe,256877368.0,2011
+snu,Santa Fe,337694057.0,2011
+inicial+primaria,Santa Fe,4561171620.0,2012
+privada,Santa Fe,1984317032.0,2012
+secundaria,Santa Fe,2736309184.0,2012
+sin_discriminar,Santa Fe,243698311.0,2012
+snu,Santa Fe,454032951.0,2012
+inicial+primaria,Santa Fe,5889319201.0,2013
+privada,Santa Fe,2462523179.0,2013
+secundaria,Santa Fe,3653414867.0,2013
+sin_discriminar,Santa Fe,322553612.0,2013
+snu,Santa Fe,494553672.0,2013
+inicial+primaria,Santa Fe,7626659567.0,2014
+privada,Santa Fe,3228951916.0,2014
+secundaria,Santa Fe,4658354694.0,2014
+sin_discriminar,Santa Fe,589115485.0,2014
+snu,Santa Fe,663815401.0,2014
+inicial+primaria,Santa Fe,10120385933.0,2015
+privada,Santa Fe,4227369366.0,2015
+secundaria,Santa Fe,5943672686.0,2015
+sin_discriminar,Santa Fe,949795030.0,2015
+snu,Santa Fe,902226724.0,2015
+inicial+primaria,Santa Fe,14003366450.0,2016
+privada,Santa Fe,5688074325.0,2016
+secundaria,Santa Fe,7337431575.0,2016
+sin_discriminar,Santa Fe,944898184.0,2016
+snu,Santa Fe,1138301456.0,2016
+inicial+primaria,Santiago del Estero,780133981.0,2011
+privada,Santiago del Estero,200509164.0,2011
+secundaria,Santiago del Estero,430720767.0,2011
+sin_discriminar,Santiago del Estero,379113287.0,2011
+snu,Santiago del Estero,111546922.0,2011
+inicial+primaria,Santiago del Estero,978051139.0,2012
+privada,Santiago del Estero,269254608.0,2012
+secundaria,Santiago del Estero,534047048.0,2012
+sin_discriminar,Santiago del Estero,284673534.0,2012
+snu,Santiago del Estero,146789640.0,2012
+inicial+primaria,Santiago del Estero,1177657661.0,2013
+privada,Santiago del Estero,320399649.0,2013
+secundaria,Santiago del Estero,775511109.0,2013
+sin_discriminar,Santiago del Estero,422353739.0,2013
+snu,Santiago del Estero,186944263.0,2013
+inicial+primaria,Santiago del Estero,1440940329.0,2014
+privada,Santiago del Estero,408461351.0,2014
+secundaria,Santiago del Estero,945464024.0,2014
+sin_discriminar,Santiago del Estero,623805460.0,2014
+snu,Santiago del Estero,237815781.0,2014
+inicial+primaria,Santiago del Estero,1880095885.0,2015
+privada,Santiago del Estero,553533437.0,2015
+secundaria,Santiago del Estero,1267618715.0,2015
+sin_discriminar,Santiago del Estero,584890205.0,2015
+snu,Santiago del Estero,332494358.0,2015
+inicial+primaria,Santiago del Estero,2598677064.0,2016
+privada,Santiago del Estero,786024411.0,2016
+secundaria,Santiago del Estero,1752376213.0,2016
+sin_discriminar,Santiago del Estero,599237551.0,2016
+snu,Santiago del Estero,468455434.0,2016
+inicial+primaria,Tierra del Fuego,396043513.0,2011
+privada,Tierra del Fuego,65288650.0,2011
+secundaria,Tierra del Fuego,351316747.0,2011
+sin_discriminar,Tierra del Fuego,95057126.0,2011
+snu,Tierra del Fuego,85695977.0,2011
+inicial+primaria,Tierra del Fuego,486968063.0,2012
+privada,Tierra del Fuego,81378782.0,2012
+secundaria,Tierra del Fuego,407013476.0,2012
+sin_discriminar,Tierra del Fuego,153801543.0,2012
+snu,Tierra del Fuego,113589206.0,2012
+inicial+primaria,Tierra del Fuego,666912760.0,2013
+privada,Tierra del Fuego,107150982.0,2013
+secundaria,Tierra del Fuego,556259571.0,2013
+sin_discriminar,Tierra del Fuego,200155634.0,2013
+snu,Tierra del Fuego,157217974.0,2013
+inicial+primaria,Tierra del Fuego,975375408.0,2014
+privada,Tierra del Fuego,163223091.0,2014
+secundaria,Tierra del Fuego,869392343.0,2014
+sin_discriminar,Tierra del Fuego,266029214.0,2014
+snu,Tierra del Fuego,220504426.0,2014
+inicial+primaria,Tierra del Fuego,1347422652.0,2015
+privada,Tierra del Fuego,208396477.0,2015
+secundaria,Tierra del Fuego,1051760424.0,2015
+sin_discriminar,Tierra del Fuego,478022228.0,2015
+snu,Tierra del Fuego,225994738.0,2015
+inicial+primaria,Tierra del Fuego,1783491532.0,2016
+privada,Tierra del Fuego,300550356.0,2016
+secundaria,Tierra del Fuego,1171332699.0,2016
+sin_discriminar,Tierra del Fuego,729880959.0,2016
+snu,Tierra del Fuego,300477016.0,2016
+inicial+primaria,Tucumán,1439286350.0,2011
+privada,Tucumán,292805924.0,2011
+secundaria,Tucumán,1016875184.0,2011
+sin_discriminar,Tucumán,209444216.0,2011
+snu,Tucumán,102926813.0,2011
+inicial+primaria,Tucumán,1662916582.0,2012
+privada,Tucumán,386614209.0,2012
+secundaria,Tucumán,1397905998.0,2012
+sin_discriminar,Tucumán,274163286.0,2012
+snu,Tucumán,132362608.0,2012
+inicial+primaria,Tucumán,2177812611.0,2013
+privada,Tucumán,448040238.0,2013
+secundaria,Tucumán,2088685180.0,2013
+sin_discriminar,Tucumán,420091994.0,2013
+snu,Tucumán,154080455.0,2013
+inicial+primaria,Tucumán,2733981670.0,2014
+privada,Tucumán,597862799.0,2014
+secundaria,Tucumán,2540046806.0,2014
+sin_discriminar,Tucumán,361623189.0,2014
+snu,Tucumán,201411001.0,2014
+inicial+primaria,Tucumán,3528359239.0,2015
+privada,Tucumán,761934532.0,2015
+secundaria,Tucumán,3312075290.0,2015
+sin_discriminar,Tucumán,742815604.0,2015
+snu,Tucumán,269528487.0,2015
+inicial+primaria,Tucumán,4802625581.0,2016
+privada,Tucumán,1051854502.0,2016
+secundaria,Tucumán,4384858701.0,2016
+sin_discriminar,Tucumán,764997672.0,2016
+snu,Tucumán,368130486.0,2016
+inicial+primaria,Ciudad de Buenos Aires,2443821529.0,2011
+privada,Ciudad de Buenos Aires,1226439526.0,2011
+secundaria,Ciudad de Buenos Aires,1556320972.0,2011
+sin_discriminar,Ciudad de Buenos Aires,1339358638.0,2011
+snu,Ciudad de Buenos Aires,517469646.0,2011
+inicial+primaria,Ciudad de Buenos Aires,2803039750.0,2012
+privada,Ciudad de Buenos Aires,1554507951.0,2012
+secundaria,Ciudad de Buenos Aires,1860083352.0,2012
+sin_discriminar,Ciudad de Buenos Aires,1842211299.0,2012
+snu,Ciudad de Buenos Aires,614299167.0,2012
+inicial+primaria,Ciudad de Buenos Aires,3827680033.0,2013
+privada,Ciudad de Buenos Aires,1835966955.0,2013
+secundaria,Ciudad de Buenos Aires,2539723652.0,2013
+sin_discriminar,Ciudad de Buenos Aires,2149083507.0,2013
+snu,Ciudad de Buenos Aires,684427467.0,2013
+inicial+primaria,Ciudad de Buenos Aires,5133143932.0,2014
+privada,Ciudad de Buenos Aires,2481853432.0,2014
+secundaria,Ciudad de Buenos Aires,3785708790.0,2014
+sin_discriminar,Ciudad de Buenos Aires,2441881196.0,2014
+snu,Ciudad de Buenos Aires,1016117183.0,2014
+inicial+primaria,Ciudad de Buenos Aires,6768935372.0,2015
+privada,Ciudad de Buenos Aires,3303726200.0,2015
+secundaria,Ciudad de Buenos Aires,4723614790.0,2015
+sin_discriminar,Ciudad de Buenos Aires,2919377302.0,2015
+snu,Ciudad de Buenos Aires,1297730597.0,2015
+inicial+primaria,Ciudad de Buenos Aires,9998134731.0,2016
+privada,Ciudad de Buenos Aires,4538418364.0,2016
+secundaria,Ciudad de Buenos Aires,6717432163.0,2016
+sin_discriminar,Ciudad de Buenos Aires,3757316664.0,2016
+snu,Ciudad de Buenos Aires,1811916129.0,2016
